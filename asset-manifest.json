@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skygoalnext/static/css/main.82541215.css",
+    "main.js": "/skygoalnext/static/js/main.d9722887.js",
+    "static/js/787.5d99e801.chunk.js": "/skygoalnext/static/js/787.5d99e801.chunk.js",
+    "index.html": "/skygoalnext/index.html",
+    "main.82541215.css.map": "/skygoalnext/static/css/main.82541215.css.map",
+    "main.d9722887.js.map": "/skygoalnext/static/js/main.d9722887.js.map",
+    "787.5d99e801.chunk.js.map": "/skygoalnext/static/js/787.5d99e801.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82541215.css",
+    "static/js/main.d9722887.js"
+  ]
+}
